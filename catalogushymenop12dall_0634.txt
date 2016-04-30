@@ -1,0 +1,243 @@
+140
+
+serotina 99.
+serotinus 99.
+serratulae 124.
+setifer 76.
+sieboldii 99, 100.
+sileri 56.
+
+silphii 107.
+silvester 118.
+silvestris 118.
+
+similis 9, 19, 54, 100,
+
+108.
+
+simillima 54.
+simulatrix 20.
+singularis 100.
+singulus 100.
+siphonophorae 20.
+socialis 112, 116.
+Solenaspis 8.
+Solenozopheria 57.
+solitaria 100.
+
+solitarius 100.
+sorbi 131.
+
+Spathegaster 37, 48,
+
+57, 79.
+
+speciosus 101.
+spheciformis 13.
+spinigera 11.
+
+spinosa 9,20,105,130.
+
+spinosissimae 130.
+
+spinosus 9, 20, 130.
+
+splendens 119.
+spongifica 106.
+spongiosa 76.
+spongiosus 76.
+staegeri 13.
+stigmata 21.
+stigmatus 21.
+striata 26.
+striaticollis 26.
+striatus 43.
+stricta 35.
+striolata 8, 11.
+striolatus 4.
+strobilana 76.
+strobili 76.
+strobus 101.
+subaptera 26.
+subapterus 26.
+subclavata 29.
+subcompressa 12²».
+
+Register.
+
+subnebulosa 21.
+subpetiolatum 133.
+subterranea 75, 124.
+subterraneus 124.
+subtilis 23.
+subulifera 11.
+succinea 77.
+succinipedis 116.
+succinipes 56, 57.
+suecica 21.
+sufflator 101.
+sulcata 55.
+superfetationis 101.
+surculi 77.
+suttonii 101.
+sylvanus 3.
+Synapsis 13.
+synaspis 63.
+syncrepida 124.
+syncrepidus 124.
+synergus 29, 109.
+Synophrus 108.
+syrphi 16.
+
+Taschenbergii 54.
+tegmentorum 83.
+Tenthredo 8.
+
+tenuicornis 21, 117.
+
+Teras 59, 79.
+terminalis 61, 62.
+testacea 35, 77.
+testaceipes 21, 101.
+testaceus 35.
+Tetrarhoptra 24.
+Tetratoma 24.
+tetratoma 27.
+tetratomus 27.
+texana 54.
+thaumacera 114.
+thaumacerus 114.
+thoreyi 35.
+Thyreocera 4.
+
+tibialis 1, 2, 6, 112.
+
+tiliae 77.
+Timaspis 125.
+tincta 13.
+‘cinctoria 77, 78.
+
+tinctoria nostras 78.
+
+tinctoriae 77, 78.
+tinctorum 78.
+
+tinctus 13.
+tojae 101, 102.
+
+. tomentosa 27.
+
+topiarius 102.
+tormentillae 118.
+trachelii 125.
+
+tragopogonis 125.
+
+trapezoidea 35.
+trapezoideus 35.
+treatae 131.
+tremulae 78.
+Tribalia 106.
+trichopsila 21.
+trichopsilus 21.
+tricolor 47.
+Trigonaspis 62.
+trilineata 102.
+trilineatus 102.
+Trischiza 2.
+Trisolenia 79.
+tristis 18, 114.
+tritici 35.
+tritoma 15, 21.
+truncata 27.
+truncicola 78.
+
+Trybliographa 15.
+
+tschekii 35, 114.
+tuber 116, 117.
+tuberculosa 78.
+tubicola 102.4
+tumida 125.
+
+tumidus 125, 130.
+
+tumifica 103.
+tumificus 103.
+turdigus 108.
+turgidus 108.
+‘curionum 78.
+turneri 103.
+typica 13.
+typicus 13.
+
+Ullrichii 35.
+umbraculatae 78.
+umbi-aculus 101.
+undulatus 109.
+unica 78.
+
+unicus 78.
+
+unifasciatum 133.
+
+urnaeformis 103.
+urticae 3.
+
+Druck von Breitkopf ὣ Hartel in Leipzig.
+
+ᾖ
+
+.. *ι ³⁰«.
+
+urticarum 3.
+urticeti 3.
+utahensis 130.
+utriculus 103.
+
+Vaccinii 57, 64.
+vagabunda 27.
+valerianellae 125.
+validicornis 4.
+variabilis 114‚‚130.
+variolosus 114.
+varius 41, 114.
+ventricosus 103.
+verbasci 125.
+verna 130.
+vernus 47, 130.
+verrucarum 47.
+verrucosa 54, 55.
+verrucosus 54, 55, 95.
+vesicator 47, 48.
+vesicatrix 47, 48.
+vesicula 48.
+victrix ι’ 1.
+villosa 27, 36, 64.
+villosus 27, 36, 64,
+114.
+virens 103.
+virentis 117.
+viridis 79.
+viscosae 79.
+vitis pomum 75.
+vulgaris 114.
+
+Westwoodii 8, 12.
+
+Xanthocephala 36.
+xanthocera 36.
+xanthocerus 115.
+xanthochroa 37.
+xanthoneura 22.
+xanthopa 36.
+xanthopsis 103.
+Xestophanes 118.
+Xyalaspis 7, 10.
+xystiformis 22.
+Xystus 29.
+
+Zetterstedti 2.
+zigzag 21.
+Zygosis 3.
+
